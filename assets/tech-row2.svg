@@ -1,4 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 160" width="100%" height="100%">
+    <style>
+    @media (prefers-color-scheme: light) {
+      .text-primary { fill: #0f172a !important; }
+      .text-secondary { fill: #475569 !important; }
+      .stroke-secondary { stroke: #475569 !important; }
+    }
+  </style>
   <defs>
     <linearGradient id="card-bg2" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0a101f" />
@@ -73,7 +80,7 @@
   <!-- Right Side: Cute Doodle "Code Deploy Improve Repeat ♡" and Doodle Cat -->
   <g transform="translate(735, 12)">
     <!-- Slanted handwritten notes -->
-    <g font-family="'Segoe Print', 'Caveat', 'Comic Sans MS', cursive, sans-serif" font-size="16" font-weight="bold" fill="#cbd5e1" opacity="0.85">
+    <g font-family="'Segoe Print', 'Caveat', 'Comic Sans MS', cursive, sans-serif" font-size="16" font-weight="bold" class="text-secondary" fill="#cbd5e1" opacity="0.85">
       <text x="35" y="24" transform="rotate(-12 35 24)">Code</text>
       <text x="48" y="46" transform="rotate(-10 48 46)">Deploy</text>
       <text x="62" y="68" transform="rotate(-9 62 68)">Improve</text>
@@ -85,14 +92,14 @@
     <polygon points="144,88 143,96 138,92" fill="#a855f7" opacity="0.8" />
 
     <!-- Cute Minimalist Line Doodle Cat -->
-    <g transform="translate(142, 70)" stroke="#cbd5e1" stroke-width="1.8" fill="none" opacity="0.85">
+    <g transform="translate(142, 70)" class="stroke-secondary" stroke="#cbd5e1" stroke-width="1.8" fill="none" opacity="0.85">
       <!-- Cat Head & Ears -->
       <path d="M6 32 C3 20 5 12 12 12 L17 4 L26 12 C30 12 34 12 38 12 L47 4 L52 12 C59 12 61 20 58 32 C55 42 45 44 32 44 C19 44 9 42 6 32 Z" />
       <!-- Eyes (curved happy eyes) -->
       <path d="M18 24 Q23 20 28 24" />
       <path d="M36 24 Q41 20 46 24" />
       <!-- Nose & Mouth -->
-      <path d="M32 28 L30 32 L34 32 Z" fill="#cbd5e1" />
+      <path d="M32 28 L30 32 L34 32 Z" class="text-secondary" fill="#cbd5e1" />
       <path d="M32 32 Q29 36 26 34" />
       <path d="M32 32 Q35 36 38 34" />
       <!-- Whiskers -->
