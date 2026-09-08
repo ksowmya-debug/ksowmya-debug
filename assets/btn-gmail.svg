@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 74" width="100%" height="100%">
+  <defs>
+    <linearGradient id="gm-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="216" height="70" rx="16" fill="url(#gm-grad)" stroke="#334155" stroke-width="1.2" />
+  <!-- Gmail Icon -->
+  <g transform="translate(18, 20)">
+    <path d="M2 5 L18 17 L34 5 Z" fill="#ea4335" />
+    <path d="M2 5 L2 28 L10 28 L10 13 L18 19 L26 13 L26 28 L34 28 L34 5 L18 17 Z" fill="#4285f4" />
+    <polygon points="2,5 10,13 2,13" fill="#c5221f" />
+    <polygon points="34,5 26,13 34,13" fill="#34a853" />
+    <polygon points="26,13 34,13 34,28 26,28" fill="#34a853" />
+    <polygon points="2,13 10,13 10,28 2,28" fill="#fbbc05" />
+  </g>
+  <!-- Text -->
+  <text x="64" y="34" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="700" fill="#ffffff">Gmail</text>
+  <text x="64" y="52" font-family="'Segoe UI', sans-serif" font-size="10" fill="#94a3b8">sowmya0410.k@gmail.com</text>
+  <!-- Arrow -->
+  <text x="194" y="42" font-family="'Segoe UI', sans-serif" font-size="18" fill="#94a3b8">→</text>
+</svg>

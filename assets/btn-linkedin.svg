@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 74" width="100%" height="100%">
+  <defs>
+    <linearGradient id="li-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#0369a1" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="216" height="70" rx="16" fill="url(#li-grad)" stroke="#38bdf8" stroke-width="1" />
+  <!-- LinkedIn Icon -->
+  <rect x="16" y="16" width="42" height="42" rx="8" fill="#ffffff" />
+  <path d="M26 31 h4.5 v15 h-4.5 z M28.2 25 a2.5 2.5 0 1 1 0 5 a2.5 2.5 0 0 1 0 -5 z M34 31 h4.3 v2.1 h0.1 c0.6-1.1 2.1-2.4 4.3-2.4 c4.6 0 5.4 3 5.4 7 v8.3 h-4.5 v-7.3 c0-1.7 0-4-2.4-4 c-2.4 0-2.8 1.9-2.8 3.9 v7.4 H34 z" fill="#0284c7" />
+  <!-- Text -->
+  <text x="68" y="34" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="700" fill="#ffffff">LinkedIn</text>
+  <text x="68" y="52" font-family="'Segoe UI', sans-serif" font-size="11.5" fill="#e0f2fe">/in/sowmya-katkojwal</text>
+  <!-- Arrow -->
+  <text x="194" y="42" font-family="'Segoe UI', sans-serif" font-size="18" fill="#ffffff">→</text>
+</svg>
