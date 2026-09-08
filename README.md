@@ -1,44 +1,48 @@
+<table width="100%" style="background-color: #16112A; border-radius: 16px; border: 1px solid #2d2159;">
+  <tr>
+    <td align="center" style="padding: 30px; border: none;">
+
 <div align="center">
 
   <!-- ==================== HERO BANNER ==================== -->
-  <img src="assets/hero-banner.svg" alt="Sowmya - Full Stack Developer Banner" width="100%" />
+  <img src="assets/hero-banner.svg?v=2" alt="Sowmya - Full Stack Developer Banner" width="100%" />
 
   <br/><br/>
 
 </div>
 
 <!-- ==================== ABOUT ME ==================== -->
-## 👤 About Me
+<h2 style="color: #f472b6; border-bottom: 1px solid #2d2159; padding-bottom: 8px; margin-top: 30px;">👤 About Me</h2>
 
 <div align="center">
-  <img src="assets/about-card.svg" alt="About Sowmya - Code Card & Highlights" width="100%" />
+  <img src="assets/about-card.svg?v=2" alt="About Sowmya - Code Card & Highlights" width="100%" />
 </div>
 
 <br/>
 
 <!-- ==================== LET'S CONNECT ==================== -->
-## 🔗 Let's Connect
+<h2 style="color: #f472b6; border-bottom: 1px solid #2d2159; padding-bottom: 8px; margin-top: 30px;">🔗 Let's Connect</h2>
 
 <table border="0" cellpadding="0" cellspacing="6" width="100%">
   <tr align="center">
     <td width="25%" align="center" style="border: none;">
       <a href="https://www.linkedin.com/in/sowmya-katkojwal-059a76365/" target="_blank">
-        <img src="assets/btn-linkedin.svg" alt="LinkedIn" width="100%" />
+        <img src="assets/btn-linkedin.svg?v=2" alt="LinkedIn" width="100%" />
       </a>
     </td>
     <td width="25%" align="center" style="border: none;">
       <a href="https://www.instagram.com/sowmya.kcode?igsi=dGsydm5nNjg1ZXE3" target="_blank">
-        <img src="assets/btn-instagram.svg" alt="Instagram" width="100%" />
+        <img src="assets/btn-instagram.svg?v=2" alt="Instagram" width="100%" />
       </a>
     </td>
     <td width="25%" align="center" style="border: none;">
       <a href="https://www.youtube.com/@sowmyaKCode" target="_blank">
-        <img src="assets/btn-youtube.svg" alt="YouTube" width="100%" />
+        <img src="assets/btn-youtube.svg?v=2" alt="YouTube" width="100%" />
       </a>
     </td>
     <td width="25%" align="center" style="border: none;">
       <a href="mailto:sowmya0410.k@gmail.com" target="_blank">
-        <img src="assets/btn-gmail.svg" alt="Gmail" width="100%" />
+        <img src="assets/btn-gmail.svg?v=2" alt="Gmail" width="100%" />
       </a>
     </td>
   </tr>
@@ -47,22 +51,22 @@
 <br/>
 
 <!-- ==================== TECH ARSENAL ==================== -->
-## ⚡ Tech Arsenal
+<h2 style="color: #f472b6; border-bottom: 1px solid #2d2159; padding-bottom: 8px; margin-top: 30px;">⚡ Tech Arsenal</h2>
 
 <div align="center">
   <!-- Row 1: Frontend Craft | Backend Engineering | Data & Cloud -->
-  <img src="assets/tech-row1.svg" alt="Frontend, Backend, Data and Cloud" width="100%" />
+  <img src="assets/tech-row1.svg?v=2" alt="Frontend, Backend, Data and Cloud" width="100%" />
   
   <br/><br/>
   
   <!-- Row 2: DevOps & Deployment | Languages & Tools | Doodle -->
-  <img src="assets/tech-row2.svg" alt="DevOps, Tools and Doodles" width="100%" />
+  <img src="assets/tech-row2.svg?v=2" alt="DevOps, Tools and Doodles" width="100%" />
 </div>
 
 <br/>
 
 <!-- ==================== GITHUB STATISTICS ==================== -->
-## 📊 GitHub Statistics
+<h2 style="color: #f472b6; border-bottom: 1px solid #2d2159; padding-bottom: 8px; margin-top: 30px;">📊 GitHub Statistics</h2>
 
 <table border="0" cellpadding="0" cellspacing="6" width="100%">
   <tr align="center">
@@ -76,7 +80,7 @@
 </table>
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
-## 🚀 Featured Projects
+<h2 style="color: #f472b6; border-bottom: 1px solid #2d2159; padding-bottom: 8px; margin-top: 30px;">🚀 Featured Projects</h2>
 
 <table border="0" cellpadding="0" cellspacing="8" width="100%">
   <tr>
@@ -131,3 +135,7 @@
     <sub style="color: #64748b;">Designed with 💜 for <b>Sowmya</b> • <i>Keep Learning, Keep Growing 🚀</i></sub>
   </p>
 </div>
+
+    </td>
+  </tr>
+</table>
