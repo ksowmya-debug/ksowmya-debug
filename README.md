@@ -87,7 +87,7 @@
 <table border="0" cellpadding="0" cellspacing="8" width="100%">
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #1e293b; background-color: #0a101f; border-radius: 16px; padding: 20px;">
-      <h3>⚡ S-Mart — DSA Digital Business Platform</h3>
+      <h3 style="color: #f8fafc;">⚡ S-Mart — DSA Digital Business Platform</h3>
       <p style="color: #94a3b8; font-size: 14px;">
         A high-performance digital commerce platform selling curated DSA Notes. Features modular UPI QR payment simulation, JWT-authenticated role guards, interactive protected PDF streaming, and rich administrative analytics telemetry.
       </p>
@@ -108,7 +108,7 @@
       </p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #1e293b; background-color: #0a101f; border-radius: 16px; padding: 20px;">
-      <h3>☕ Spring Boot Cloud Microservices</h3>
+      <h3 style="color: #f8fafc;">☕ Spring Boot Cloud Microservices</h3>
       <p style="color: #94a3b8; font-size: 14px;">
         Production-ready enterprise backend architecture powered by Java 21 & Spring Boot 3. Incorporates Spring Security with stateless JWT authorization, database migration pipelines, and Dockerized PostgreSQL.
       </p>
