@@ -67,10 +67,10 @@
 <table border="0" cellpadding="0" cellspacing="6" width="100%">
   <tr align="center">
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ksowmya-debug&show_icons=true&hide_border=false&theme=transparent&bg_color=0a101f&title_color=c084fc&text_color=cbd5e1&icon_color=60a5fa&border_color=1e293b&border_radius=16" alt="Sowmya's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ksowmya-debug&show_icons=true&hide_border=false&theme=transparent&bg_color=16112a&title_color=c084fc&text_color=cbd5e1&icon_color=60a5fa&border_color=2d2159&border_radius=16" alt="Sowmya's GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksowmya-debug&theme=transparent&background=0a101f&border=1e293b&border_radius=16&ring=a855f7&fire=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=c084fc&sideLabels=94a3b8&dates=64748b" alt="Sowmya's GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksowmya-debug&theme=transparent&background=16112a&border=2d2159&border_radius=16&ring=a855f7&fire=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=c084fc&sideLabels=94a3b8&dates=64748b" alt="Sowmya's GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -80,7 +80,7 @@
 
 <table border="0" cellpadding="0" cellspacing="8" width="100%">
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #1e293b; background-color: #0a101f; border-radius: 16px; padding: 20px;">
+    <td width="50%" valign="top" style="border: 1px solid #2d2159; background-color: #16112a; border-radius: 16px; padding: 20px;">
       <h3 style="color: #f8fafc;">⚡ S-Mart — DSA Digital Business Platform</h3>
       <p style="color: #94a3b8; font-size: 14px;">
         A high-performance digital commerce platform selling curated DSA Notes. Features modular UPI QR payment simulation, JWT-authenticated role guards, interactive protected PDF streaming, and rich administrative analytics telemetry.
@@ -101,7 +101,7 @@
         </a>
       </p>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #1e293b; background-color: #0a101f; border-radius: 16px; padding: 20px;">
+    <td width="50%" valign="top" style="border: 1px solid #2d2159; background-color: #16112a; border-radius: 16px; padding: 20px;">
       <h3 style="color: #f8fafc;">☕ Spring Boot Cloud Microservices</h3>
       <p style="color: #94a3b8; font-size: 14px;">
         Production-ready enterprise backend architecture powered by Java 21 & Spring Boot 3. Incorporates Spring Security with stateless JWT authorization, database migration pipelines, and Dockerized PostgreSQL.
@@ -125,7 +125,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0a101f,1e293b,3b82f6,8b5cf6&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=16112a,2d2159,a855f7,ec4899&height=100&section=footer" width="100%" />
   
   <p align="center">
     <sub style="color: #64748b;">Designed with 💜 for <b>Sowmya</b> • <i>Keep Learning, Keep Growing 🚀</i></sub>

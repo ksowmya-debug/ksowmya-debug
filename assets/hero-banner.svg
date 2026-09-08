@@ -1,34 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 230" width="100%" height="100%">
   <defs>
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#080e1a" />
-      <stop offset="50%" stop-color="#0d1527" />
-      <stop offset="100%" stop-color="#111827" />
+      <stop offset="0%" stop-color="#0f0c1b" />
+      <stop offset="50%" stop-color="#151028" />
+      <stop offset="100%" stop-color="#1c1535" />
     </linearGradient>
     <linearGradient id="border-glow" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.5" />
-      <stop offset="50%" stop-color="#8b5cf6" stop-opacity="0.7" />
-      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.4" />
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#d946ef" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.5" />
     </linearGradient>
     <linearGradient id="avatar-ring" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#38bdf8" />
-      <stop offset="50%" stop-color="#a855f7" />
-      <stop offset="100%" stop-color="#ec4899" />
+      <stop offset="50%" stop-color="#d946ef" />
+      <stop offset="100%" stop-color="#ff7eb3" />
     </linearGradient>
     <linearGradient id="name-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#c084fc" />
-      <stop offset="100%" stop-color="#a855f7" />
+      <stop offset="0%" stop-color="#f472b6" />
+      <stop offset="100%" stop-color="#c084fc" />
     </linearGradient>
     <radialGradient id="p-glow" cx="28%" cy="50%" r="35%">
-      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.25" />
-      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0" />
+      <stop offset="0%" stop-color="#d946ef" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#d946ef" stop-opacity="0" />
     </radialGradient>
     <radialGradient id="b-glow" cx="85%" cy="35%" r="40%">
-      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.18" />
-      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0" />
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0" />
     </radialGradient>
     <filter id="glow-filter" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feGaussianBlur stdDeviation="4" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
     <clipPath id="avatar-clip">
@@ -37,22 +37,22 @@
   </defs>
 
   <!-- Card Background -->
-  <rect x="2" y="2" width="936" height="226" rx="22" fill="url(#bg-grad)" stroke="url(#border-glow)" stroke-width="1.5" />
+  <rect x="2" y="2" width="936" height="226" rx="22" fill="url(#bg-grad)" stroke="url(#border-glow)" stroke-width="1.8" />
   <rect x="2" y="2" width="936" height="226" rx="22" fill="url(#p-glow)" />
   <rect x="2" y="2" width="936" height="226" rx="22" fill="url(#b-glow)" />
 
   <!-- Left Side: Hand-drawn doodle text -->
   <g opacity="0.9" transform="translate(36, 48)">
-    <text x="32" y="32" font-family="'Segoe Print', 'Caveat', 'Comic Sans MS', cursive, sans-serif" font-size="24" font-weight="bold" fill="#e2e8f0" transform="rotate(-9 32 32)">Better</text>
-    <text x="38" y="58" font-family="'Segoe Print', 'Caveat', 'Comic Sans MS', cursive, sans-serif" font-size="21" font-weight="bold" fill="#cbd5e1" transform="rotate(-6 38 58)">+ Code</text>
-    <text x="44" y="90" font-family="'Segoe Print', 'Caveat', 'Comic Sans MS', cursive, sans-serif" font-size="26" font-weight="bold" fill="#f1f5f9" transform="rotate(-8 44 90)">Bigger</text>
-    <text x="50" y="120" font-family="'Segoe Print', 'Caveat', 'Comic Sans MS', cursive, sans-serif" font-size="26" font-weight="bold" fill="#e2e8f0" transform="rotate(-5 50 120)">Dreams</text>
-    <!-- Little Purple Heart -->
-    <path d="M148 118 C148 112, 142 107, 136 110 C130 107, 124 112, 124 118 C124 125, 136 132, 136 132 C136 132, 148 125, 148 118 Z" fill="#c084fc" opacity="0.9" />
+    <text x="32" y="32" font-family="'Segoe Print', 'Caveat', 'Comic Sans MS', cursive, sans-serif" font-size="24" font-weight="bold" fill="#fbcfe8" transform="rotate(-9 32 32)">Better</text>
+    <text x="38" y="58" font-family="'Segoe Print', 'Caveat', 'Comic Sans MS', cursive, sans-serif" font-size="21" font-weight="bold" fill="#fce7f3" transform="rotate(-6 38 58)">+ Code</text>
+    <text x="44" y="90" font-family="'Segoe Print', 'Caveat', 'Comic Sans MS', cursive, sans-serif" font-size="26" font-weight="bold" fill="#fdf2f8" transform="rotate(-8 44 90)">Bigger</text>
+    <text x="50" y="120" font-family="'Segoe Print', 'Caveat', 'Comic Sans MS', cursive, sans-serif" font-size="26" font-weight="bold" fill="#fbcfe8" transform="rotate(-5 50 120)">Dreams</text>
+    <!-- Little Pink Heart -->
+    <path d="M148 118 C148 112, 142 107, 136 110 C130 107, 124 112, 124 118 C124 125, 136 132, 136 132 C136 132, 148 125, 148 118 Z" fill="#ec4899" opacity="0.9" filter="url(#glow-filter)" />
   </g>
 
   <!-- Avatar Glowing Ring -->
-  <circle cx="285" cy="115" r="61" fill="none" stroke="url(#avatar-ring)" stroke-width="3" filter="url(#glow-filter)" />
+  <circle cx="285" cy="115" r="61" fill="none" stroke="url(#avatar-ring)" stroke-width="3.5" filter="url(#glow-filter)" />
   <circle cx="285" cy="115" r="59" fill="none" stroke="url(#avatar-ring)" stroke-width="2.5" />
 
   <!-- Avatar Image -->
@@ -63,10 +63,10 @@
     <text x="0" y="28" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="34" font-weight="700" fill="#f8fafc">
       Hi, I'm <tspan fill="url(#name-grad)" font-weight="800">Sowmya</tspan>
     </text>
-    <text x="0" y="62" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="15" font-weight="500" fill="#cbd5e1">
-      Full Stack Developer  <tspan fill="#64748b">|</tspan>  <tspan fill="#93c5fd">Java</tspan>  <tspan fill="#818cf8">•</tspan>  <tspan fill="#93c5fd">Spring Boot</tspan>  <tspan fill="#818cf8">•</tspan>  <tspan fill="#93c5fd">React</tspan>  <tspan fill="#818cf8">•</tspan>  <tspan fill="#93c5fd">Cloud</tspan>
+    <text x="0" y="62" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="15" font-weight="500" fill="#e2e8f0">
+      Full Stack Developer  <tspan fill="#ec4899">|</tspan>  <tspan fill="#a78bfa">Java</tspan>  <tspan fill="#c084fc">•</tspan>  <tspan fill="#a78bfa">Spring Boot</tspan>  <tspan fill="#c084fc">•</tspan>  <tspan fill="#a78bfa">React</tspan>  <tspan fill="#c084fc">•</tspan>  <tspan fill="#a78bfa">Cloud</tspan>
     </text>
-    <text x="0" y="94" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="14.5" font-style="italic" fill="#a5b4fc">
+    <text x="0" y="94" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="14.5" font-style="italic" fill="#fbcfe8">
       “Turning ideas into real-world applications” <tspan font-style="normal">✨</tspan>
     </text>
   </g>
@@ -74,18 +74,18 @@
   <!-- Right Side: Laptop Line Art Illustration -->
   <g opacity="0.8" transform="translate(785, 46)">
     <!-- Code symbol </> -->
-    <text x="56" y="32" font-family="'Fira Code', 'Courier New', monospace" font-size="22" font-weight="bold" fill="#818cf8">&lt;/&gt;</text>
+    <text x="56" y="32" font-family="'Fira Code', 'Courier New', monospace" font-size="22" font-weight="bold" fill="#f472b6">&lt;/&gt;</text>
     
     <!-- Laptop screen -->
-    <rect x="15" y="42" width="78" height="52" rx="6" fill="none" stroke="#818cf8" stroke-width="2" transform="rotate(-10 50 65)" />
-    <line x1="22" y1="52" x2="34" y2="50" stroke="#a855f7" stroke-width="1.5" transform="rotate(-10 50 65)" />
-    <line x1="22" y1="60" x2="60" y2="53" stroke="#64748b" stroke-width="1.5" transform="rotate(-10 50 65)" />
-    <line x1="22" y1="68" x2="50" y2="63" stroke="#64748b" stroke-width="1.5" transform="rotate(-10 50 65)" />
+    <rect x="15" y="42" width="78" height="52" rx="6" fill="none" stroke="#d946ef" stroke-width="2" transform="rotate(-10 50 65)" />
+    <line x1="22" y1="52" x2="34" y2="50" stroke="#f472b6" stroke-width="1.5" transform="rotate(-10 50 65)" />
+    <line x1="22" y1="60" x2="60" y2="53" stroke="#a78bfa" stroke-width="1.5" transform="rotate(-10 50 65)" />
+    <line x1="22" y1="68" x2="50" y2="63" stroke="#a78bfa" stroke-width="1.5" transform="rotate(-10 50 65)" />
     
     <!-- Laptop base -->
-    <path d="M2 95 L98 78 L94 85 L6 102 Z" fill="none" stroke="#818cf8" stroke-width="2" />
+    <path d="M2 95 L98 78 L94 85 L6 102 Z" fill="none" stroke="#d946ef" stroke-width="2" />
 
     <!-- Cute small heart -->
-    <path d="M92 48 C92 44, 88 40, 83 42 C79 40, 75 44, 75 48 C75 54, 83 59, 83 59 C83 59, 92 54, 92 48 Z" fill="none" stroke="#c084fc" stroke-width="1.5" />
+    <path d="M92 48 C92 44, 88 40, 83 42 C79 40, 75 44, 75 48 C75 54, 83 59, 83 59 C83 59, 92 54, 92 48 Z" fill="none" stroke="#ff7eb3" stroke-width="1.5" />
   </g>
 </svg>
