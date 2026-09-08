@@ -75,12 +75,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ksowmya-debug&layout=compact&theme=transparent&bg_color=0a101f&title_color=c084fc&text_color=cbd5e1&border_color=1e293b&border_radius=16&langs_count=8" alt="Top Languages" width="55%" />
-</div>
-
-<br/>
-
 <!-- ==================== FEATURED PROJECTS ==================== -->
 ## 🚀 Featured Projects
 
