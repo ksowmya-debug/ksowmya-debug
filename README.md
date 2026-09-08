@@ -67,7 +67,7 @@
 <table border="0" cellpadding="0" cellspacing="6" width="100%">
   <tr align="center">
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ksowmya-debug&show_icons=true&hide_border=false&theme=transparent&bg_color=0a101f&title_color=c084fc&text_color=cbd5e1&icon_color=60a5fa&border_color=1e293b&border_radius=16" alt="Sowmya's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ksowmya-debug&show_icons=true&hide_border=false&theme=transparent&bg_color=0a101f&title_color=c084fc&text_color=cbd5e1&icon_color=60a5fa&border_color=1e293b&border_radius=16" alt="Sowmya's GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center" style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksowmya-debug&theme=transparent&background=0a101f&border=1e293b&border_radius=16&ring=a855f7&fire=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=c084fc&sideLabels=94a3b8&dates=64748b" alt="Sowmya's GitHub Streak" width="100%" />
@@ -76,7 +76,7 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksowmya-debug&layout=compact&theme=transparent&bg_color=0a101f&title_color=c084fc&text_color=cbd5e1&border_color=1e293b&border_radius=16&langs_count=8" alt="Top Languages" width="55%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ksowmya-debug&layout=compact&theme=transparent&bg_color=0a101f&title_color=c084fc&text_color=cbd5e1&border_color=1e293b&border_radius=16&langs_count=8" alt="Top Languages" width="55%" />
 </div>
 
 <br/>
